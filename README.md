@@ -19,7 +19,7 @@ Complete coursework, Python automation scripts, operating system interaction too
 | :---: | :--- | :---: | :---: | :---: | :---: |
 | **01** | Crash Course on Python | ✅ **Completed** | **100.00%** | [📜 `KJOENEZZ0HMI`](https://www.coursera.org/account/accomplishments/verify/KJOENEZZ0HMI) | [`01-Crash-Course-on-Python`](./01-Crash-Course-on-Python/) |
 | **02** | Using Python to Interact with the Operating System | ✅ **Completed** | **100.00%** | [📜 `CWJGI2J07DJT`](https://www.coursera.org/account/accomplishments/verify/CWJGI2J07DJT) | [`02-Using-Python-to-Interact-with-the-Operating-System`](./02-Using-Python-to-Interact-with-the-Operating-System/) |
-| **03** | Introduction to Git and GitHub | ⚪ Enrolled | - | Upcoming | `03-Introduction-to-Git-and-GitHub` |
+| **03** | Introduction to Git and GitHub | ✅ **Completed** | **100.00%** | [📜 `0XNUFOI74SYI`](https://www.coursera.org/account/accomplishments/verify/0XNUFOI74SYI) | [`03-Introduction-to-Git-and-GitHub`](./03-Introduction-to-Git-and-GitHub/) |
 | **04** | Troubleshooting and Debugging Techniques | ⚪ Enrolled | - | Upcoming | `04-Troubleshooting-and-Debugging-Techniques` |
 | **05** | Configuration Management and the Cloud | ⚪ Enrolled | - | Upcoming | `05-Configuration-Management-and-the-Cloud` |
 | **06** | Automating Real-World Tasks with Python | ⚪ Enrolled | - | Upcoming | `06-Automating-Real-World-Tasks-with-Python` |
@@ -48,12 +48,22 @@ Google-IT-Automation-with-Python/
 │   ├── module7_log_analysis_final_project.py
 │   ├── test_all_modules.py
 │   └── README.md
+├── 03-Introduction-to-Git-and-GitHub/
+│   ├── module1_git_basics.py
+│   ├── module2_branching_and_merging.py
+│   ├── module3_remotes_and_github.py
+│   ├── module4_pull_requests_and_collaboration.py
+│   ├── test_all_modules.py
+│   └── README.md
 ├── certificates/
 │   ├── Google_Python_Course1_Crash_Course_KJOENEZZ0HMI.pdf
 │   ├── Google_Python_Course1_grades_100pct.png
 │   ├── Google_Python_Course2_Interact_with_OS_CWJGI2J07DJT.pdf
 │   ├── Google_Python_Course2_Interact_with_OS_CWJGI2J07DJT.png
-│   └── google_python_course2_grades_100pct.png
+│   ├── google_python_course2_grades_100pct.png
+│   ├── Google_Python_Course3_Git_GitHub_0XNUFOI74SYI.pdf
+│   ├── Google_Python_Course3_Git_GitHub_0XNUFOI74SYI.png
+│   └── google_python_course3_grades_100pct.png
 └── README.md
 ```
 
