@@ -18,7 +18,7 @@ Complete coursework, Python automation scripts, operating system interaction too
 | Course # | Course Title | Status | Grade | Verified Credential | Directory |
 | :---: | :--- | :---: | :---: | :---: | :---: |
 | **01** | Crash Course on Python | ✅ **Completed** | **100.00%** | [📜 `KJOENEZZ0HMI`](https://www.coursera.org/account/accomplishments/verify/KJOENEZZ0HMI) | [`01-Crash-Course-on-Python`](./01-Crash-Course-on-Python/) |
-| **02** | Using Python to Interact with the Operating System | 🟢 In Progress | - | Upcoming | `02-Using-Python-to-Interact-with-the-Operating-System` |
+| **02** | Using Python to Interact with the Operating System | ✅ **Completed** | **100.00%** | [📜 `CWJGI2J07DJT`](https://www.coursera.org/account/accomplishments/verify/CWJGI2J07DJT) | [`02-Using-Python-to-Interact-with-the-Operating-System`](./02-Using-Python-to-Interact-with-the-Operating-System/) |
 | **03** | Introduction to Git and GitHub | ⚪ Enrolled | - | Upcoming | `03-Introduction-to-Git-and-GitHub` |
 | **04** | Troubleshooting and Debugging Techniques | ⚪ Enrolled | - | Upcoming | `04-Troubleshooting-and-Debugging-Techniques` |
 | **05** | Configuration Management and the Cloud | ⚪ Enrolled | - | Upcoming | `05-Configuration-Management-and-the-Cloud` |
@@ -38,9 +38,22 @@ Google-IT-Automation-with-Python/
 │   ├── crash_course_reference.py
 │   ├── test_all_modules.py
 │   └── README.md
+├── 02-Using-Python-to-Interact-with-the-Operating-System/
+│   ├── module1_health_check.py
+│   ├── module2_files_and_directories.py
+│   ├── module3_regular_expressions.py
+│   ├── module4_log_processing.py
+│   ├── module5_unit_testing.py
+│   ├── module6_file_rename_substitute.py
+│   ├── module7_log_analysis_final_project.py
+│   ├── test_all_modules.py
+│   └── README.md
 ├── certificates/
 │   ├── Google_Python_Course1_Crash_Course_KJOENEZZ0HMI.pdf
-│   └── Google_Python_Course1_grades_100pct.png
+│   ├── Google_Python_Course1_grades_100pct.png
+│   ├── Google_Python_Course2_Interact_with_OS_CWJGI2J07DJT.pdf
+│   ├── Google_Python_Course2_Interact_with_OS_CWJGI2J07DJT.png
+│   └── google_python_course2_grades_100pct.png
 └── README.md
 ```
 
