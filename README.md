@@ -20,8 +20,8 @@ Complete coursework, Python automation scripts, operating system interaction too
 | **01** | Crash Course on Python | ✅ **Completed** | **100.00%** | [📜 `KJOENEZZ0HMI`](https://www.coursera.org/account/accomplishments/verify/KJOENEZZ0HMI) | [`01-Crash-Course-on-Python`](./01-Crash-Course-on-Python/) |
 | **02** | Using Python to Interact with the Operating System | ✅ **Completed** | **100.00%** | [📜 `CWJGI2J07DJT`](https://www.coursera.org/account/accomplishments/verify/CWJGI2J07DJT) | [`02-Using-Python-to-Interact-with-the-Operating-System`](./02-Using-Python-to-Interact-with-the-Operating-System/) |
 | **03** | Introduction to Git and GitHub | ✅ **Completed** | **100.00%** | [📜 `0XNUFOI74SYI`](https://www.coursera.org/account/accomplishments/verify/0XNUFOI74SYI) | [`03-Introduction-to-Git-and-GitHub`](./03-Introduction-to-Git-and-GitHub/) |
-| **04** | Troubleshooting and Debugging Techniques | ⚪ Enrolled | - | Upcoming | `04-Troubleshooting-and-Debugging-Techniques` |
-| **05** | Configuration Management and the Cloud | ⚪ Enrolled | - | Upcoming | `05-Configuration-Management-and-the-Cloud` |
+| **04** | Troubleshooting and Debugging Techniques | ✅ **Completed** | **95.00%** | [📜 `RKIVEJ2J7H2L`](https://www.coursera.org/account/accomplishments/verify/RKIVEJ2J7H2L) | [`04-Troubleshooting-and-Debugging-Techniques`](./04-Troubleshooting-and-Debugging-Techniques/) |
+| **05** | Configuration Management and the Cloud | ⚪ In Progress | - | Active | `05-Configuration-Management-and-the-Cloud` |
 | **06** | Automating Real-World Tasks with Python | ⚪ Enrolled | - | Upcoming | `06-Automating-Real-World-Tasks-with-Python` |
 
 ---
@@ -55,6 +55,13 @@ Google-IT-Automation-with-Python/
 │   ├── module4_pull_requests_and_collaboration.py
 │   ├── test_all_modules.py
 │   └── README.md
+├── 04-Troubleshooting-and-Debugging-Techniques/
+│   ├── module1_debugging.py
+│   ├── module2_performance_tuning.py
+│   ├── module3_crash_resolution.py
+│   ├── module4_resource_management.py
+│   ├── test_troubleshooting.py
+│   └── README.md
 ├── certificates/
 │   ├── Google_Python_Course1_Crash_Course_KJOENEZZ0HMI.pdf
 │   ├── Google_Python_Course1_grades_100pct.png
@@ -63,7 +70,10 @@ Google-IT-Automation-with-Python/
 │   ├── google_python_course2_grades_100pct.png
 │   ├── Google_Python_Course3_Git_GitHub_0XNUFOI74SYI.pdf
 │   ├── Google_Python_Course3_Git_GitHub_0XNUFOI74SYI.png
-│   └── google_python_course3_grades_100pct.png
+│   ├── google_python_course3_grades_100pct.png
+│   ├── Google_Python_Course4_Troubleshooting_and_Debugging_Techniques_RKIVEJ2J7H2L.pdf
+│   ├── Google_Python_Course4_Troubleshooting_and_Debugging_Techniques_RKIVEJ2J7H2L.png
+│   └── google_python_course4_grades.png
 └── README.md
 ```
 
