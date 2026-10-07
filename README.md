@@ -21,8 +21,8 @@ Complete coursework, Python automation scripts, operating system interaction too
 | **02** | Using Python to Interact with the Operating System | ✅ **Completed** | **100.00%** | [📜 `CWJGI2J07DJT`](https://www.coursera.org/account/accomplishments/verify/CWJGI2J07DJT) | [`02-Using-Python-to-Interact-with-the-Operating-System`](./02-Using-Python-to-Interact-with-the-Operating-System/) |
 | **03** | Introduction to Git and GitHub | ✅ **Completed** | **100.00%** | [📜 `0XNUFOI74SYI`](https://www.coursera.org/account/accomplishments/verify/0XNUFOI74SYI) | [`03-Introduction-to-Git-and-GitHub`](./03-Introduction-to-Git-and-GitHub/) |
 | **04** | Troubleshooting and Debugging Techniques | ✅ **Completed** | **95.00%** | [📜 `RKIVEJ2J7H2L`](https://www.coursera.org/account/accomplishments/verify/RKIVEJ2J7H2L) | [`04-Troubleshooting-and-Debugging-Techniques`](./04-Troubleshooting-and-Debugging-Techniques/) |
-| **05** | Configuration Management and the Cloud | ⚪ In Progress | - | Active | `05-Configuration-Management-and-the-Cloud` |
-| **06** | Automating Real-World Tasks with Python | ⚪ Enrolled | - | Upcoming | `06-Automating-Real-World-Tasks-with-Python` |
+| **05** | Configuration Management and the Cloud | ✅ **Completed** | **100.00%** | [📜 `R8ALWTT131BJ`](https://www.coursera.org/account/accomplishments/verify/R8ALWTT131BJ) | [`05-Configuration-Management-and-the-Cloud`](./05-Configuration-Management-and-the-Cloud/) |
+| **06** | Automating Real-World Tasks with Python | ⚪ In Progress | - | Final Capstone Course | `06-Automating-Real-World-Tasks-with-Python` |
 
 ---
 
@@ -62,6 +62,13 @@ Google-IT-Automation-with-Python/
 │   ├── module4_resource_management.py
 │   ├── test_troubleshooting.py
 │   └── README.md
+├── 05-Configuration-Management-and-the-Cloud/
+│   ├── module1_automation_cloud.py
+│   ├── module2_containers_kubernetes.py
+│   ├── module3_puppet_monitoring.py
+│   ├── module4_cicd_pipeline.py
+│   ├── test_config_management.py
+│   └── README.md
 ├── certificates/
 │   ├── Google_Python_Course1_Crash_Course_KJOENEZZ0HMI.pdf
 │   ├── Google_Python_Course1_grades_100pct.png
@@ -73,7 +80,10 @@ Google-IT-Automation-with-Python/
 │   ├── google_python_course3_grades_100pct.png
 │   ├── Google_Python_Course4_Troubleshooting_and_Debugging_Techniques_RKIVEJ2J7H2L.pdf
 │   ├── Google_Python_Course4_Troubleshooting_and_Debugging_Techniques_RKIVEJ2J7H2L.png
-│   └── google_python_course4_grades.png
+│   ├── google_python_course4_grades.png
+│   ├── Google_Python_Course5_Configuration_Management_and_the_Cloud_R8ALWTT131BJ.pdf
+│   ├── Google_Python_Course5_Configuration_Management_and_the_Cloud_R8ALWTT131BJ.png
+│   └── google_python_course5_grades_100pct.png
 └── README.md
 ```
 
