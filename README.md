@@ -22,7 +22,7 @@ Complete coursework, Python automation scripts, operating system interaction too
 | **03** | Introduction to Git and GitHub | ✅ **Completed** | **100.00%** | [📜 `0XNUFOI74SYI`](https://www.coursera.org/account/accomplishments/verify/0XNUFOI74SYI) | [`03-Introduction-to-Git-and-GitHub`](./03-Introduction-to-Git-and-GitHub/) |
 | **04** | Troubleshooting and Debugging Techniques | ✅ **Completed** | **95.00%** | [📜 `RKIVEJ2J7H2L`](https://www.coursera.org/account/accomplishments/verify/RKIVEJ2J7H2L) | [`04-Troubleshooting-and-Debugging-Techniques`](./04-Troubleshooting-and-Debugging-Techniques/) |
 | **05** | Configuration Management and the Cloud | ✅ **Completed** | **100.00%** | [📜 `R8ALWTT131BJ`](https://www.coursera.org/account/accomplishments/verify/R8ALWTT131BJ) | [`05-Configuration-Management-and-the-Cloud`](./05-Configuration-Management-and-the-Cloud/) |
-| **06** | Automating Real-World Tasks with Python | ✅ **Completed** | **98.75%** | [📜 `OO5EXZ9ZSC7F`](https://www.coursera.org/account/accomplishments/verify/OO5EXZ9ZSC7F) | [`06-Automating-Real-World-Tasks-with-Python`](./06-Automating-Real-World-Tasks-with-Python/) |
+| **06** | Automating Real-World Tasks with Python | ✅ **Completed** | **100.00%** | [📜 `OO5EXZ9ZSC7F`](https://www.coursera.org/account/accomplishments/verify/OO5EXZ9ZSC7F) | [`06-Automating-Real-World-Tasks-with-Python`](./06-Automating-Real-World-Tasks-with-Python/) |
 | **🎓** | **Google IT Automation with Python Professional Certificate (Master)** | 🏆 **Credential Claimed** | **Specialization Complete** | [📜 `H6GAQJMR8OH4`](https://www.coursera.org/account/accomplishments/specialization/H6GAQJMR8OH4) | **Full Credential Verified** |
 
 ---
